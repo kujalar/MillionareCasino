@@ -1,0 +1,12 @@
+#output directory
+out/*
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+#idea directories
+.idea/*
+*.iml
